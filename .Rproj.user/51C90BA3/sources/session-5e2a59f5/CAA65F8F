@@ -1,0 +1,31 @@
+{
+    "id": "CAA65F8F",
+    "path": "~/GitHub/endless-summer/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "2297592234",
+    "contents": "",
+    "dirty": false,
+    "created": 1732997682289.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0",
+        "cursorPosition": "62,51",
+        "scrollLine": "58"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1733001505,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1733001505676,
+    "read_only": false,
+    "read_only_alternatives": []
+}
