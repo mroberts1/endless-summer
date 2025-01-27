@@ -7,26 +7,20 @@ author:
   name: Martin Roberts
   url: https://mroberts.emerson.build
   email: martin_roberts@emerson.edu
-  affiliation: 
-    - name: Emerson College
-      department: Visual & Media Arts
-      city: Boston
-      state: MA
-      country: US
-      url: www.emerson.edu
 format:
-    html: 
-      self-contained: true
-      grid: 
-        sidebar-width: 350px
-        margin-width: 350px
-        body-width: 600px
-    pdf: default
-#execute: 
-#  echo: fenced
-reference-location: margin
-citation-location: margin
-# bibliography: skeleton.bib
+  html: 
+    self-contained: true
+    grid: 
+      sidebar-width: 350px
+      margin-width: 350px
+      body-width: 600px
+    theme: ember.scss
+    css: custom.scss
+    linestretch: 1.5
+    fontsize: 1.1em
+    smooth-scroll: true
+    linkcolor: "#62259d"
+    link-external-newwindow: true
 ---
 
 ```{r}
