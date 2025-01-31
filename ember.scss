@@ -66,11 +66,10 @@ h2, h3, h4, h5, h6 {
 }
 
 a:link {
-  text-decoration: none;
-  color: #62259d;
-  // text-decoration-color: #235440;
-  //text-decoration-thickness: 1px;
-  //text-underline-offset: 3px;
+  text-decoration: true;
+  //text-decoration-color: #235440;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 a:visited {
     text-decoration: none;
@@ -79,8 +78,9 @@ a:visited {
     //text-underline-offset: 3px;
 }
 a:hover {
-  //color: #235440;
+  color: white;
   text-decoration: underline;
+  background-color: #62259d;
   //text-decoration-color: #235440;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
