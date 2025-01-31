@@ -3,24 +3,7 @@
 title: "Endless Summer"
 subtitle: "Transcultural Geographies of City Pop Art"
 date: "`r Sys.Date()`"
-author: 
-  name: Martin Roberts
-  url: https://mroberts.emerson.build
-  email: martin_roberts@emerson.edu
-format:
-  html: 
-    self-contained: true
-    grid: 
-      sidebar-width: 350px
-      margin-width: 350px
-      body-width: 600px
-    theme: ember.scss
-    css: custom.scss
-    linestretch: 1.5
-    fontsize: 1.1em
-    smooth-scroll: true
-    linkcolor: "#62259d"
-    link-external-newwindow: true
+author: "Martin Roberts"
 ---
 
 ```{r}

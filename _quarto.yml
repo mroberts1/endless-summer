@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+  - "pdf/*.pdf"
+  
+website:
+  title: "    "
+format:
+  html:
+    theme: ember.scss
+    css: custom.scss
+    #self-contained: true
+    grid:
+        sidebar-width: 400px
+        body-width: 550px
+        #margin-width: 300px
+        #gutter-width: 1em
+    linestretch: 1.5
+    fontsize: 1.3em
+    smooth-scroll: true
+    linkcolor: "#62259d"
+    link-external-newwindow: true
+  docx: 
+    reference-doc: vma-letterhead.docx
+  #Prettypdf-typst: default
+
