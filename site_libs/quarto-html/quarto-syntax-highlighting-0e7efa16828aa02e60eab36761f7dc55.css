@@ -36,6 +36,10 @@
   --quarto-font-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospace, monospace;
 }
 
+:root {
+  --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
 pre > code.sourceCode > span {
   color: #003B4F;
 }
@@ -202,4 +206,4 @@ code span.kw {
   content: "</";
 }
 
-/*# sourceMappingURL=a60e8ee18f747aec0cfe5bbfb33abb87.css.map */
+/*# sourceMappingURL=e9b7e1f9f46056a8511438b5004717d8.css.map */
