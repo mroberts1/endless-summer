@@ -1,9 +1,17 @@
 
 ---
-title: "Endless Summer"
-subtitle: "Transcultural Geographies of City Pop Art"
+title: "Twilighting"
+subtitle: "Naoko Ogigami and the Art of Doing Nothing"
 date: "`r Sys.Date()`"
-author: "Martin Roberts"
+author: 
+  - name: Martin Roberts
+    email: martin_roberts@emerson.edu
+  - affiliations: 
+    name: Emerson College
+    address: 100 Boylston Street
+    city: Boston
+    state: MA
+    postal-code: 02116
 ---
 
 ```{r}
@@ -14,31 +22,25 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-[![](img/tropical-modern.jpg)](https://www.instagram.com/p/C70YTmEy_4w/)
+![](img/twilighting10.png)
 
-Paper proposal for Research Workshop, **And Suddenly There Was City Pop: The Global Dimensions of the Retrograde Formation of a Japanese Popular Music Genre**\
-University of Amsterdam, 19-21 March 2025  
+Paper proposal for [Inter-Asia Cultural Studies Conference](https://culturalstudies.asia/2025-iacss-conference/): "Geo-Social Connection: The Continuing Journey of Critical Inquiry"\
+[Walailak University](https://www.wu.ac.th/en)\
+Nakhon Si Thammarat, Thailand\
+23-25 July 2025  
+
+The films of the Japanese auteur Naoko Ogigami are a case study in lifestyle cinema, a popular genre of neoliberal capitalism that focuses on cosmopolitan consumption, transcultural encounters, and female identity. Within this framework, this paper recontextualizes Ogigami’s films in relation to recent philosophical work on boredom in globoal art cinema.
+
+Drawing on Martin Heidegger’s influential defense of boredom, recent analyses have suggested that in seeking to kill time and thereby stave off boredom, contemporary global media thereby also suppress the space of reflection in which philosophical thought itself begins. By contrast, the works of Michelangelo Antonioni or today’s slow cinema filmmakers, while “boring” in terms of the ideology of entertainment media, open up a space for philosophical reflection.
+
+Ogigami’s films take this approach further by paradoxically transforming inactivity itself into a lifestyle. Her films are characterized by their refusal of melodramatic action and calm focus on everyday social relations. Her characters seem to spend much of their time just sitting around staring into space, a practice that in *Megane* (2007) is known as “twilighting”. In contrast to the hyperkinetic pace of contemporary global action cinemas, Ogigami’s characters transform doing nothing itself into an aesthetic practice, open up a space for her audience in which, as Heidegger argues, thought can begin.
 
 ***
 
-This paper continues the exploration of transcultural imaginaries reverberating back and forth between Japan and the U.S., begun in my book on Cornelius’s album [**Fantasma**](https://www.bloomsbury.com/us/corneliuss-fantasma-9781501330179/#). Drawing on Shuhei Hosokawa’s analysis of musical pastiche in what he calls the “soy sauce music” of Haruomi Hosono, I am interested in exploring City Pop not as a musical but as an audiovisual construct, circulating not only in album artwork but also coffee-table books, posters, clothing, and social media platforms. Just as “City Pop” was retroactively constituted as a nostalgic embodiment of 1970s-1980s Japan, so too was it characterized by a Japanese fantasy of California, as well as of U.S. Pacific territories  more generally (Hawaii, Guam). 
+[Martin Roberts](mailto:martin_roberts@emerson.edu) teaches courses on world cinema, digital culture, and cinematic media in the Department of Visual & Media Arts at Emerson College, Boston. He completed a doctoral dissertation on the contemporary French novelist Michel Tournier at the University of Cambridge, published as *Michel Tournier: Bricolage and Cultural Mythology* by Stanford French & Italian Studies.
 
-The paper explores this fantasy cultural geography through the work of the Japanese designer and pop artist [**Hiroshi Nagai**](https://hiroshinagai.com/contents.html). Inspired by the artist’s visits to the U.S. and Guam in the mid-1970s, Nagai’s album art, paintings, and books such as **Time Goes By…** and **Tropical Modern** have become synonymous with City Pop, with their iconography of cloudless blue skies, palm trees, ocean highways, open-top cars, and hotel swimming pools. Perhaps the most striking aspect of Nagai’s imaginary landscapes, the paper will suggest, is the conspicuous absence of any human subjects, recalling the dystopian modernism of the British novelist J.G. Ballard. Unlike the empty swimming pools of Ballard’s post-apocalyptic worlds, however, Nagai’s are invitingly full and decidedly utopian, fantasy projections of the California good life. 
+His postdoctoral research focused on ethnographic surrealism, but since participating in the launch of the Film & Media Studies program at MIT, his research has focused on global media and culture. His publications on film and media include essays on global documentary, IMAX movies, and the Danish Dogma '95 movement in journals such as *Cinema Journal* and *Visual Anthopology*.
 
-Nagai’s city-pop landscapes, the paper argues, are also **futuristic**, and as such they also help to position the musical genre within the larger cultural shift from modernist to postmodernist aesthetics. In his book **Ghosts of My Life**, Mark Fisher argues that postmodernist culture has become so absorbed with stylistically mimicking its past that it has lost the capacity of 1970s popular music to imagine the future. Both musically and visually, the paper concludes, City Pop can be seen in similar terms, as nostalgic for a modernist future that never arrived and that we are still waiting for today.
-
-***
-
-**References**
-
-Christian Fennesz, "[Caecilia](https://youtu.be/lS4FE6Dnpig)" (**Endless Summer**, Austria, MEGO 035 / Touch Music, 2001).
-
-Shuhei Hosokawa, “Soy Sauce Music: Haruomi Hosono and Japanese Self-Orientalism,” in Philip Hayward, ed., **Widening the Horizon: Exoticism in Post-War Popular Music** (Sydney: John Libbey / Perfect Beat Publications, 1999): 114-44.
-
-Mark Fisher, “‘The Slow Cancelation of the Future,’” in **Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures** (Winchester, UK / Washington USA, 2014): 13-35.
-
-Simon Reynolds, **Futuromania: Electronic Dreams, Desiring Machines, and Tomorrow’s Music Today** (New York: Hachette, 2024).
-
-Martin Roberts, **Cornelius's 'Fantasma'**. 33 1/3 (New York: Bloomsbury, 2019).
+His most recent conference papers are [Moving Targets: Object Detection and Algorithmic Aesthetics](https://mroberts1.github.io/moving-targets/); [Dangerous Liaisons: Nocturnal Cinema and the French New Wave](https://mroberts1.github.io/nocturnal-cinema/); and [Entangled Lives: Uncanny Animals in Cosmopolitical Documentary](https://mroberts1.github.io/entangled-lives/).
 
 ***
