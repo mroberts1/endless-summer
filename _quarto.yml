@@ -1,13 +1,17 @@
 project:
-  type: website
-  resources:
-  - "pdf/*.pdf"
+  type: 
+    website
   
-website:
-  title: "    "
 format:
-  html:
-    theme: ember.scss
+  html: 
+    backgroundcolor: "#EFEDE5"
+    toc: false
+    toc-depth: 3
+    toc-location: right
+    toc-title: '   '
+    theme: 
+      light: ember.scss
+      dark: darkly
     css: custom.scss
     #self-contained: true
     grid:
@@ -15,12 +19,16 @@ format:
         body-width: 600px
         #margin-width: 300px
         #gutter-width: 1em
-    linestretch: 1.3
-    fontsize: 1.3em
+    linestretch: 1.5
     smooth-scroll: true
-    linkcolor: "#62259d"
+    linkcolor: "#2E5392"
     link-external-newwindow: true
-  docx: 
-    reference-doc: vma-letterhead.docx
-  PrettyPDF-pdf: default
-
+  #PrettyPDF-pdf: default
+lightbox: 
+  match: auto
+  effect: fade
+  loop: false
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto

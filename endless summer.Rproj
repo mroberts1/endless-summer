@@ -12,3 +12,7 @@ Encoding: UTF-8
 
 RnwWeave: knitr
 LaTeX: XeLaTeX
+
+PythonType: system
+PythonVersion: 3.11.6
+PythonPath: ~/.pyenv/versions/3.11.6/bin/python
