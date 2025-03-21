@@ -159,9 +159,10 @@ There are of course many ways to do this, depending on your level of Python codi
 
 Today's diffusion models are by no means limited to musical outputs, moreover, and along with generative playlists and music, city pop's visual components have also begun to be automated. One of the cornerstones of today's generative media aesthetics is **restylization**, the application of historical styles of art, music, cinema, or other media to any kind of audiovisual content. A frame-grab from a Studio Ghibli film, for example, can be algorithmically mapped onto the movements of a dancer in a live action video, so it appears to be an animated character that is dancing; but the source image could just as easily be a medieval painting. Such imagery has become routine on TikTok, while a rising tide of open-source models uploaded to websites such as  [CivitAI](https://civitai.com) and [Hugging Face](https://huggingface.com) enable users to generate audiovisual content more customizable than better-known sites like [Midjourney](https://www.midjourney.com/) or [Runway](https://runwayml.com/). On CivitAI, a simple search for "Hiroshi Nagai" produces numerous city pop style models trained on datasets of images by the painter. These images were generated using one such model; they are not copies of specific works, but none of them are the work of Nagai himself. 
 
-As the text on the model page explains:
 
 ::: {.column-margin}
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ![](img/civitai-screenshot1.png){.lightbox group="civitai" width=100} ![](img/civitai-screenshot2.png){.lightbox group="civitai" width=100}
 
@@ -172,6 +173,8 @@ As the text on the model page explains:
 ![](img/civitai/hn1-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn2-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn3-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn4-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn5-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn6-lora.jpeg){.lightbox group="lora" width=50} ![](img/civitai/hn7-lora.jpeg){.lightbox group="lora" width=50}
 
 :::
+
+As the text on the model page explains:
 
 >This LoRA brings the nostalgic charm of Hiroshi Nagai’s signature pop art style to Flux Dev, an open-source image generation LLM. Known for his vibrant depictions of 1970s-80s urban and beach life in Japan, Nagai's art captures a dreamy yet minimalistic aesthetic—bold colors, crisp lines, and an atmosphere of leisure and tranquility.
 >
