@@ -163,8 +163,6 @@ As the text on the model page explains:
 
 ::: {.column-margin}
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ![](img/civitai-screenshot1.png){.lightbox group="civitai" width=100} ![](img/civitai-screenshot2.png){.lightbox group="civitai" width=100}
 
 :::
