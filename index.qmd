@@ -24,7 +24,7 @@ library(palmerpenguins)
 
 </video>
 
-<small>Image credit: Adeel Zafar, [**Taxiway: A Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)[^1]</small>
+<small>Image credit: Adeel Zafar, [**Taxiway: Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)[^1]</small>
 
 </div>
 
@@ -218,7 +218,7 @@ City pop generative music and images raise highly-charged questions about the et
 <br>
 
 ***
-[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by YAKENOHARA x CHABE (Jetset, 2016).
+[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by Yakenohara x Chabe (Jetset, 2016).
 
 ::: {.column-margin}
 
