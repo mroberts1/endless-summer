@@ -218,11 +218,12 @@ City pop generative music and images raise highly-charged questions about the et
 <br>
 
 ***
+[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by YAKENOHARA x CHABE (Jetset, 2016).
 
-## Notes
+::: {.column-margin}
 
-[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by YAKENOHARA x CHABE (Jetset, 2016). [\[Soundcloud\]](https://soundcloud.com/cubismografico/record-players-2-yakenoharachabe)
+<br><br><br><br><br><br><br>
 
-## References
+[![](img/album-covers/recordplayers2.jpg){width=200}](https://on.soundcloud.com/PqJibezQNCwqo2GD6)
 
-https://www.japantimes.co.jp/culture/2018/11/17/music/mariya-takeuchi-pop-genius-behind-2018s-surprise-online-smash-hit-japan/
+:::
