@@ -24,7 +24,7 @@ library(palmerpenguins)
 
 </video>
 
-<small>Adeel Zafar, [**Taxiway: A Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)</small>
+<small>Image credit: Adeel Zafar, [**Taxiway: A Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)[^1]</small>
 
 </div>
 
@@ -49,8 +49,6 @@ University of Amsterdam, 19-21 March 2025
 ## I. Double Fantasy
 
 My intention when I first proposed this paper was to focus not on the music of city pop but on the artwork of Hiroshi Nagai that has become its visual counterpart. That was before I actually did my homework and discovered that the work has already been substantially done for me---notably by our dear colleague Toshiyuki Ohwada, whose excellent article "City Pop's America" is among the three essays included in the catalog to the exhibition that ran at the Japan Foundation Gallery in Sydney, Australia, from September 2020 to January 2021, titled [**Hiroshi Nagai: Paintings for Music**](https://sydney.jpf.go.jp/events/hiroshi-nagai-paintings-for-music/?fbclid=IwY2xjawI-ln5leHRuA2FlbQIxMAABHeUKRUj04Mc1iZN3DLiHTb9vlyObwcnLlw9RSAhx0Qs9AoYexaWgypC6bA_aem_H1QOj7XPApKfEvNOOAXjdA), concurrently with a second exhibition, [**City Pop: Inspired Nostalgia**](https://sydney.jpf.go.jp/events/city-pop-inspired-nostalgia/). Since the full [**catalog**](https://sydney.jpf.go.jp/jpf/jpfmedia/JPF-HNCatalogue-R7-Issuu.pdf) to the Nagai exhibition is available online, as well as an extensive discussion of Nagai's work by Professor Ohwada and Mark McNeill, I can only refer colleagues to these materials for the background that I originally planned to provide. Since the YouTube algorithm launched the viral success of Mariya Takeuchi's 1984 hit "Plastic Love" ([St. Michel, 2018](https://www.japantimes.co.jp/culture/2018/11/17/music/mariya-takeuchi-pop-genius-behind-2018s-surprise-online-smash-hit-japan/)), and the subsequent release of Mark McNeill's expertly-curated [**Pacific Breeze**](https://lightintheattic.net/collections/v-a-pacific-breeze/products/pacific-breeze-japanese-city-pop-aor-boogie-1976-1986) compilation for Light in the Attic Records (2019), Nagai's work has become an increasing focus of attention as the visual representative of city pop. As with Korea's rapid (not to mention lucrative) international institutionalization of K-pop, the Japan Foundation has been quick to seize an opportunity to flex some Japanese soft power of its own. In Spring 2023 the Bunkamura gallery in Shibuya hosted a homegrown retrospective, [**永井博 The Journey Never Ends**](https://www.bunkamura.co.jp/gallery/exhibition/230301nagai.html). In addition to this institutional presence, Nagai's images are today ubiquitous on YouTube's infinity pool of city pop playlists and fan videos, as well as on countless Instagram accounts, Pinterest mood boards, desktop wallpapers, and [animated gifs](https://www.artstation.com/artwork/QnmqdB). 
-
-![](gif/romain-courtois-)
 
 ::: {.column-margin}
 
@@ -220,6 +218,10 @@ City pop generative music and images raise highly-charged questions about the et
 <br>
 
 ***
+
+## Notes
+
+[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by YAKENOHARA x CHABE (Jetset, 2016). [\[Soundcloud\]](https://soundcloud.com/cubismografico/record-players-2-yakenoharachabe)
 
 ## References
 
