@@ -1,9 +1,18 @@
-
 ---
 title: "Endless Summer"
 subtitle: "Transcultural Geographies of City Pop Art"
 date: "`r Sys.Date()`"
-author: "Martin Roberts"
+author: 
+  name: Martin Roberts
+  url: https://mroberts.emerson.build
+  email: martin_roberts@emerson.edu
+  affiliation: 
+    - name: Emerson College
+      department: Visual & Media Arts
+      city: Boston
+      state: MA
+      country: US
+      url: www.emerson.edu
 ---
 
 ```{r}
@@ -44,8 +53,6 @@ library(palmerpenguins)
 <!-- </div> -->
 
 <!-- [![](img/tropical-modern.jpg)](https://www.instagram.com/p/C70YTmEy_4w/) -->
-
-<br> 
 
 **And Suddenly There Was City Pop: The Global Dimensions of the Retrograde Formation of a Japanese Popular Music Genre**\
 University of Amsterdam, 19-21 March 2025 
