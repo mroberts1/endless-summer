@@ -1,6 +1,6 @@
 project:
-  type: 
-    website
+  type: website
+  output-dir: docs
   
 format:
   html: 
