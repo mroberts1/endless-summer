@@ -14,25 +14,25 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-![](img/southern-freeway.png)
+<!-- ![](img/southern-freeway.png) -->
 
-<small>Image credit: Hiroshi Nagai, cover art for Pictured Resort, [**Southern Freeway**](https://www.discogs.com/master/1210611-Pictured-Resort-Southern-Freeway/image/SW1hZ2U6MjkzNzY5OTg=) (Sailyard, 2017)</small>
+<!-- <small>Image credit: Hiroshi Nagai, cover art for Pictured Resort, [**Southern Freeway**](https://www.discogs.com/master/1210611-Pictured-Resort-Southern-Freeway/image/SW1hZ2U6MjkzNzY5OTg=) (Sailyard, 2017)</small> -->
 
 <!-- ![](img/tropical-modern.jpg) -->
 
-<!-- <div> -->
+<div>
 
-<!-- <video autoplay loop muted playsinline controls="false" width="100%"> -->
+<video autoplay loop muted playsinline controls="false" width="100%">
 
-<!-- <source src="video/taxiway.mp4" type="video/mp4"> -->
+<source src="video/taxiway.mp4" type="video/mp4">
 
-<!-- </video> -->
+</video>
 
-<!-- <small>Image credit: Adeel Zafar, [**Taxiway: Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)[^1]</small> -->
+<small>Image credit: Adeel Zafar, [**Taxiway: Hiroshi Nagai Reimagined**](https://www.artstation.com/artwork/ybGlG5) (2020)[^1]</small>
 
-<!-- </div> -->
+</div>
 
-<!-- <div> -->
+<div>
 
 
 <!-- <video autoplay loop muted playsinline controls="false" width="100%"> -->
@@ -211,7 +211,7 @@ City pop generative music and images raise highly-charged questions about the et
 
 <br>
 
-<center>![](img/hiroshi-nagai-airport.png){.lightbox width=300}</center>
+<center>![](img/hiroshi-nagai-airport.png){.lightbox width=100%}</center>
 
 ::: {.column-margin}
 
@@ -221,13 +221,14 @@ City pop generative music and images raise highly-charged questions about the et
 
 <br>
 
-<!-- *** -->
-<!-- [^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by Yakenohara x Chabe (Jetset, 2016). -->
+***
 
-<!-- ::: {.column-margin} -->
+[^1]: Zafar's project is a 3D animation and video loop adapted from Hiroshi Nagai's cover art for the 7-inch remix album **Record Players 2 ** by Yakenohara x Chabe (Jetset, 2016).
 
-<!-- <br><br><br><br><br><br> -->
+::: {.column-margin}
 
-<!-- [![](img/album-covers/recordplayers2.jpg){width=200}](https://on.soundcloud.com/PqJibezQNCwqo2GD6) -->
+<br><br><br><br><br><br>
 
-<!-- ::: -->
+[![](img/album-covers/recordplayers2.jpg){width=200}](https://on.soundcloud.com/PqJibezQNCwqo2GD6)
+
+:::
